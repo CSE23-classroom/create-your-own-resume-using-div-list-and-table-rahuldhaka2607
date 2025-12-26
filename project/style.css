@@ -303,3 +303,6 @@ a{
     padding-left: 25px;
     padding-right: 10px;
 }
+.footerContent span{
+    color: blue;
+}
